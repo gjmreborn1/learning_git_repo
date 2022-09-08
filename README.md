@@ -8,3 +8,4 @@ MODIFY
 [MERGE] merge branch 2
 
 FEATURE B
+FEATURE B V2
