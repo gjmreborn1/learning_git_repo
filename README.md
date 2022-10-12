@@ -48,3 +48,5 @@ class Abcd {
 ```
 
 And some emoji such as :joy: or :black_joker: or some more traditional :smile:.next data
+stash data
+amend!
